@@ -9,8 +9,8 @@ This Shiny application may be accessed [here](https://elisilva.shinyapps.io/TOco
 
 ## To-Do
 
-1. Countries missing data in the ECDC dataset for today's date are not included in the dashboard (i.e. Spain)
-2. Add four summary statistics at top left corner (today data: (1) new cases (2) total cases, to-date (3) new deaths (4) total deaths, to-date
+1. Move twitter feed to left hand corner
+2. Add four summary statistics at top right corner (today data: (1) new cases (2) total cases, to-date (3) new deaths (4) total deaths, to-date
 3. Add case & death density (import population data & merge)
 4. Add gender in popup as pie chart
 5. Static date input for leaflet to visualize progression of cases as time goes on
