@@ -9,12 +9,14 @@ This Shiny application may be accessed [here](https://elisilva.shinyapps.io/TOco
 
 ## To-Do
 
-1. Move twitter feed to left hand corner (completed: 10/6/2020)
+1. Add gender in popup as pie chart
+2. Add case density (from TO Public Health GoogleSheet)
+3. Static date input for leaflet to visualize progression of cases as time goes on
+4. Import socioeconomic variables and cross-check with neighbourhoods (social justice issue?)
+
+## Updates (as of 10/6/2020)
+1. Moved twitter feed to left hand corner
 2. Add four summary statistics at top right corner (today data: (1) new cases (2) total cases, to-date (3) new deaths (4) total deaths, to-date
-3. Add case & death density (import population data & merge)
-4. Add gender in popup as pie chart
-5. Static date input for leaflet to visualize progression of cases as time goes on
-6. Import socioeconomic variables and cross-check with neighbourhoods (social justice issue?)
 
 ## Authors
 
